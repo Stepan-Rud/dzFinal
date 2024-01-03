@@ -1,0 +1,11 @@
+
+Z	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(ãß’@
+J
+java:S3740%"/Provide the parametrized type for this generic.(¢ãÁöÿÿÿÿÿ
+J
+java:S3740+"/Provide the parametrized type for this generic.(½ïô‹ùÿÿÿÿ
+H
+java:S1199*"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+¼
+java:S1598"¦This file "Programm.java" should be located in "hw\shopToy" directory, not in "C:\Users\1good\OneDrive\Ğ Ğ°Ğ±Ğ¾Ñ‡Ğ¸Ğ¹ ÑÑ‚Ğ¾Ğ»\ĞœĞ°Ğ³Ğ°Ğ·Ğ¸Ğ½ Ğ¸Ğ³Ñ€ÑƒÑˆĞµĞº\shopToy".(§Å
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§Å
